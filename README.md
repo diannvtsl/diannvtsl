@@ -1,4 +1,4 @@
-# Hallo Swiftie's
+# Hallo Swiftie's🎀🌷🌹❄🌈☂
 - 👋 Hi, I’m Dian Novita Sinambela
 - 👀 I’m interested in Electrical Engineering
 - 🌱 I’m currently learning C++
