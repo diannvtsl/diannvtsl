@@ -1,4 +1,4 @@
-# HORAS
+# Hallo Swiftie's
 - 👋 Hi, I’m Dian Novita Sinambela
 - 👀 I’m interested in Electrical Engineering
 - 🌱 I’m currently learning C++
@@ -6,7 +6,8 @@
 - 📫 How to reach me
 - Instagram : dian_nvtsl
 - 😄 Pronouns: Nothing
-- ⚡ Fun fact: Like Butterfly,and playing Game ML
+- ⚡ Fun fact: like taylor swift 🎀💝💞💕
+                Like Butterfly,and playing Game ML
 
 <!---
 diannvtsl/diannvtsl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
