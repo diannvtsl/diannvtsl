@@ -6,8 +6,7 @@
 - 📫 How to reach me
 - Instagram : dian_nvtsl
 - 😄 Pronouns: Nothing
-- ⚡ Fun fact: like taylor swift 🎀💝💞💕
-                Like Butterfly,and playing Game ML
+
 
 <!---
 diannvtsl/diannvtsl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
