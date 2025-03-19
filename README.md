@@ -1,7 +1,7 @@
 # Hallo Swiftie's🎀🌷🌹❄🌈☂
 - 👋 Hi, I’m Dian Novita Sinambela
 - 👀 I’m interested in Electrical Engineering
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, C, Python
 - 💞️ I’m looking to collaborate on Micro , Macro Massive at Infinite Learning
 - 📫 How to reach me
 - Instagram : dian_nvtsl
